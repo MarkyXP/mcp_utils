@@ -3,8 +3,10 @@ import pkgutil
 from pathlib import Path
 
 from fastapi import FastAPI
+from fastapi_mcp import FastApiMCP
 
 app = FastAPI(title="mcp-claw-utils")
+mcp = FastApiMCP(app)
 
 _api_dir = Path(__file__).parent / "app" / "api"
 
@@ -22,7 +24,7 @@ def _discover_routers() -> None:
 
 
 _discover_routers()
-
+mcp.mount()
 
 @app.get("/health")
 async def health():
