@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCtM5z2gkrGRuWd0JQMx76qA"/>
+ <id>yt:channel:tM5z2gkrGRuWd0JQMx76qA</id>
+ <yt:channelId>tM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+ <title>bigclivedotcom</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA"/>
+ <author>
+  <name>bigclivedotcom</name>
+  <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+ </author>
+ <published>2007-01-14T02:56:26+00:00</published>
+ <entry>
+  <id>yt:video:_chfkWeB1KU</id>
+  <yt:videoId>_chfkWeB1KU</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Solar lighting module with design issues</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_chfkWeB1KU"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-16T20:35:42+00:00</published>
+  <updated>2026-06-16T20:47:39+00:00</updated>
+  <media:group>
+   <media:title>Solar lighting module with design issues</media:title>
+   <media:content url="https://www.youtube.com/v/_chfkWeB1KU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_chfkWeB1KU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is one of many useful little modules available from online marketplaces.  It states in the listing that it is designed for use from 6V to 45V but I absolutely do NOT recommend that it's used above 12V.  That said, with a suitably protected three cell lithium pack, a suitable solar panel and your choice of light, it could be very useful.
+
+The module does not have any charge control other than the blocking diodes between the solar panel and battery pack, so the battery MUST have protection against overcharge and over-discharge.
+
+If you get Deja-vu then it's because this handy little module was featured in an unbagging video.
+If you want to buy one then here's a link to the item on AliExpress (not a sponsor).
+This is an affiliate link, but that will not affect the price you pay.
+https://s.click.aliexpress.com/e/_c3cQYI59
+
+This module would be suited to off-grid applications where low level comfort light was wanted at night.
+
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="1972" average="5.00" min="1" max="5"/>
+    <media:statistics views="20061"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1cHDK3aj1Y4</id>
+  <yt:videoId>1cHDK3aj1Y4</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>AliExpress unbag joy - retro tube light - drug stash pen - perplexing products</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1cHDK3aj1Y4"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-14T17:30:06+00:00</published>
+  <updated>2026-06-14T18:29:18+00:00</updated>
+  <media:group>
+   <media:title>AliExpress unbag joy - retro tube light - drug stash pen - perplexing products</media:title>
+   <media:content url="https://www.youtube.com/v/1cHDK3aj1Y4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1cHDK3aj1Y4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Another blunderbuss-blast of technical goodies from AliExpress for us to explore.
+
+These videos are not sponsored by AliExpress.  I buy all these items myself.
+
+Here are some links to the items.  These are affiliate links, but that will not affect the price you pay.
+Keep in mind that these products may not meet your country's standards.
+Some listings may not work for some countries and some may just be sold out or disappear.
+
+When paying on AliExpress, let the transaction complete before leaving the purchase page as otherwise it may not go through.
+
+Fake Sharpie &quot;storage pen&quot;:-
+https://www.aliexpress.com/item/1005010770212359.html
+
+TDS (total dissolved solids) water tester:-
+https://s.click.aliexpress.com/e/_c2yDuoLB
+
+Clip-on solar light:-
+https://s.click.aliexpress.com/e/_c3QC3Y69
+This unit has no charge protection for the lithium cell.  It is maybe best considered as a bare module for use with a protected cell.
+
+The bizarre disk light that uses addressable LEDs for a single colour:-
+https://s.click.aliexpress.com/e/_c3uvGkPR
+
+A pack of classic NE555 ICs:-
+https://s.click.aliexpress.com/e/_c3xJnd3L
+
+The dreadful &quot;starry sky&quot; USB charging cable:-
+https://s.click.aliexpress.com/e/_c3XoQX9f
+
+Thread locking glue - reviews suggest that it may be very strong!  :-
+https://s.click.aliexpress.com/e/_c3SZqEjP
+
+Blue heat resistant securing tape for things like sublimation:-
+https://s.click.aliexpress.com/e/_c4142ihF
+
+PTFE/Teflon slippery heat resistant tape:-
+https://s.click.aliexpress.com/e/_c37ICrPT
+
+Surface mount transistor kit:-
+https://s.click.aliexpress.com/e/_c3op2c6d
+
+Voltage regulator kit:-
+https://s.click.aliexpress.com/e/_c3dXYY8Z
+
+Retro-look tube/valve touch light:-
+https://s.click.aliexpress.com/e/_c4X0ue7P
+
+Mini rectangular NFC stickers:-
+https://s.click.aliexpress.com/e/_c2vn0eBX
+
+Round NFC stickers:-
+https://s.click.aliexpress.com/e/_c4k29G69
+
+The app I used to read and write the NFC stickers:-
+https://play.google.com/store/apps/details?id=com.wakdev.wdnfc
+I believe this popular app to be safe, but you use it at your own risk.
+
+The mono TPA3118 60W amplifier module:-
+https://s.click.aliexpress.com/e/_c4MHsa6z
+
+Speed monitoring optical encoder wheel:-
+https://s.click.aliexpress.com/e/_c4lCFDKD
+
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="3429" average="5.00" min="1" max="5"/>
+    <media:statistics views="55025"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9E1lgBZb31k</id>
+  <yt:videoId>9E1lgBZb31k</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>How to use a stepper motor driver for simple continuous rotation control</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9E1lgBZb31k"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-12T17:30:33+00:00</published>
+  <updated>2026-06-12T17:52:29+00:00</updated>
+  <media:group>
+   <media:title>How to use a stepper motor driver for simple continuous rotation control</media:title>
+   <media:content url="https://www.youtube.com/v/9E1lgBZb31k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9E1lgBZb31k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A demo of how to connect and use a handy little stepper motor drive module.  I also show the circuitry inside it to make more sense of the required simple control signals.
+
+If you want more control in an automated application then you could use an Arduino, ESP or other similar module to provide speed ramping and position sensing.
+
+This simple continuous rotation setup could be useful for things like small conveyors or other feed systems.
+
+This is another of those very useful little control modules that is extraordinarily cheap, thanks to the wonders of mass production.  At the cost, it's worth buying for the case and heatsink alone for your own PCBs.
+
+I did a full reverse engineering of the pulse generator module in a different video.
+
+If you want some of this stuff to play with then here are links to the items on AliExpress (not a sponsor).
+These are affiliate links, but that will not affect the price you pay.
+
+The variable frequency or PWM 555 based module:-
+https://s.click.aliexpress.com/e/_c3rJygYd
+Should cost about £3.
+
+The mini stepper motor driver:-
+https://s.click.aliexpress.com/e/_c4pr1efT
+Should cost about £4.
+
+The NEMA 17 (1.7&quot;) stepper motor:-
+https://s.click.aliexpress.com/e/_c4rGC609
+Various types - rough price about £10.
+
+As always, shop around for the best deal.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="2518" average="5.00" min="1" max="5"/>
+    <media:statistics views="37831"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AX6U3a94sFw</id>
+  <yt:videoId>AX6U3a94sFw</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Story time - and building one of my own PCBs (minor rant)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AX6U3a94sFw"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-10T17:30:26+00:00</published>
+  <updated>2026-06-10T18:07:24+00:00</updated>
+  <media:group>
+   <media:title>Story time - and building one of my own PCBs (minor rant)</media:title>
+   <media:content url="https://www.youtube.com/v/AX6U3a94sFw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AX6U3a94sFw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The real point of this video is to help you realise that if you have a unique design, you can run a small sideline business selling kits and software.  Even if you just get a sale or two a week, that is still a meal or fancy coffee at the weekend.  Even a little extra income can quickly add up.
+
+At first the postal system can be quite confusing, but it will quickly become second nature.  I had a little box with various postage stamps in it (latterly pre-printed labels) and a list of countries and costs.
+
+These days there are more options, fast online postal purchase and either mail boxes or 24/7 lockers for easy posting.
+
+The technical community is generally very honest, and I only had a few parcels go missing over several years.  Instead of buying &quot;postage insurance&quot; (which is useless for low value items) I just accepted that sometimes things go missing and immediately sent a replacement.
+
+One thing I didn't mention in this video is all the bizarre techniques people used to try and get me to send them my unlocked software.  That included many attempts at emotional manipulation with sob stories.  I'll talk about that in a future video.  This is also why it's very handy being able to supply software on locked chips.
+
+These PCBs were originally designed to mount in standard floodlight cases by having front mounts that literally glued onto the glass.  It made them easy to retrofit into many existing cases.
+
+These days, these would make excellent custom off-grid lights.
+
+If you wonder what Disney parade the controllers were used in, it was the final version of Spectromagic in the Spectromen costumes.  The headpieces are stepping through random vivid colours with a long LFSR (Linear Feedback Shift Register) randomiser.
+
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="3413" average="5.00" min="1" max="5"/>
+    <media:statistics views="38960"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:kvoC0uJ0COM</id>
+  <yt:videoId>kvoC0uJ0COM</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Inside a scam fuel saver plug</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=kvoC0uJ0COM"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-08T17:54:19+00:00</published>
+  <updated>2026-06-08T18:34:45+00:00</updated>
+  <media:group>
+   <media:title>Inside a scam fuel saver plug</media:title>
+   <media:content url="https://www.youtube.com/v/kvoC0uJ0COM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/kvoC0uJ0COM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I've featured a few of these devices in the past.  All in the same case and being pushed on eBay, amazon, and all the other unregulated platforms during times of fuel poverty.  It appears the recent greed-driven political idiocracy has caused another push of these devices onto the market to cash in on the fact that people are struggling financially.
+
+There are genuine engine-tuning devices available, but they are for specific cars and carry a high price tag to cover the development costs.
+
+These units claim to work with ANY car and &quot;remap&quot; the engine's parameters to boost performance while saving fuel.  (That would be a massive software feat.)  In reality they do NOTHING but waste power and blink lights.
+Some make an effort to look convincing by blinking the lights in a way that looks like bidirectional data communication, but others like this just flash an LED on and off to look like they are doing something.  This particular unit is especially disappointing because it uses a microcontroller with full control over the three LEDs and could have looked so much more convincing with better software.
+
+The button in these units has two purposes.  Firstly it gives an element of interaction, making the user think they have started the vehicle learning sequence.
+The second purpose is probably to facilitate fobbing customers off until they lose interest or are beyond the point they can open a dispute with the seller.
+The instructions with these units often imply that a minimum mileage or time is required for the device to learn and adjust the engine for maximum economy.  If the customer then complains that there's no difference then they can ask if they pressed the button or suggest holding it in for ten seconds and then start the whole minimum mileage thing again.
+
+A subsequent test with an external resistor and supply showed that the zener diode is a 5.1V one, and the lower voltage readings were because the dropper resistor isn't passing enough current for the LEDs, so they drag the voltage down.
+
+The cost of these units varies dramatically, with the price starting at less than £2 on Aliexpress with no upper limit on eBay and amazon as the scammers either try to gouge as much money as possible, or use a high price to create the illusion of value.  (Like the fashion industry.)
+
+Any positive reviews of these devices are either fake or from people who have bought one and then convinced themselves that it's doing something with the placebo effect.
+
+If you want one of these for the novelty value or as a handy source of an OBD2 connector, then here's a starter-link to everyone's favourite online purveyor of technical toys - AliExpress (not a sponsor).  This is an affiliate link - which is kinda awkward with a product like this:-
+https://s.click.aliexpress.com/e/_c34wTCKP
+
+I'd guess that many of the scammers drop-ship items like this from AliExpress listings.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="5240" average="5.00" min="1" max="5"/>
+    <media:statistics views="112584"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:mnIDNcACkTk</id>
+  <yt:videoId>mnIDNcACkTk</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Victorian supercomputer power source</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/mnIDNcACkTk"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-08T06:27:44+00:00</published>
+  <updated>2026-06-09T07:35:34+00:00</updated>
+  <media:group>
+   <media:title>Victorian supercomputer power source</media:title>
+   <media:content url="https://www.youtube.com/v/mnIDNcACkTk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/mnIDNcACkTk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A reactivated 150 year old Victorian Leclanche cell powering a sci-fi supercomputer panel.</media:description>
+   <media:community>
+    <media:starRating count="1937" average="5.00" min="1" max="5"/>
+    <media:statistics views="73649"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_3nctnxMpWQ</id>
+  <yt:videoId>_3nctnxMpWQ</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>AliExpress unbag joy - High voltage, fire sprinkler, thermal switches, solar stuff</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_3nctnxMpWQ"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-06T17:26:39+00:00</published>
+  <updated>2026-06-16T08:04:28+00:00</updated>
+  <media:group>
+   <media:title>AliExpress unbag joy - High voltage, fire sprinkler, thermal switches, solar stuff</media:title>
+   <media:content url="https://www.youtube.com/v/_3nctnxMpWQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_3nctnxMpWQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Another bulging sack of technical goodies from AliExpress for us to explore.
+
+These videos are not sponsored by AliExpress.  I buy all these items myself.
+
+Here are some links to the items.  Some of these are affiliate links, but that will not affect the price you pay.
+Keep in mind that these products may not meet your country's standards.
+Some listings may not work for some countries and some may just be sold out or disappear.
+
+When paying on AliExpress, let the transaction complete before leaving the purchase page as otherwise it may not go through.
+
+The very nifty high voltage tester:-
+https://www.aliexpress.com/item/1005006761965493.html
+Shop around for the best price.  It may appear as a bundle deal item.
+If you buy one of these - open it and check that the potentiometer mounting pins aren't poking into the lithium cell!  They may need trimmed.
+
+The fire sprinkler head:-
+https://s.click.aliexpress.com/e/_c4rYqQpJ
+The liquid colour denotes the threshold temperature where the glass vial bursts.  The most common is red.
+
+The 100mA solar panel:-
+https://s.click.aliexpress.com/e/_c4tzoKFx
+
+The 140mA solar panel:-
+https://s.click.aliexpress.com/e/_c4lElK9J
+Shop around for this one - the original item showed up as not available.
+
+My preferred style of PCB laminate backed solar panel:-
+https://s.click.aliexpress.com/e/_c2JC0dbf
+These are available in various voltages and currents.
+
+Toilet cistern slow release &quot;blue-loo&quot; block holder:-
+https://s.click.aliexpress.com/e/_c36MnDnn
+
+Selection pack of tactile switches for things like car remotes:-
+https://s.click.aliexpress.com/e/_c36CCxyZ
+
+Transistor-style thermal switches:-
+https://s.click.aliexpress.com/e/_c4WfWtG1
+Available in a wide range of temperatures, and as normally open or closed.
+
+Solar powered thermometer and humidity meter:-
+https://s.click.aliexpress.com/e/_c3bkybp3
+
+Selection pack of red, green,blue,black and white markers:-
+https://s.click.aliexpress.com/e/_c35Wn6b3
+
+Extra long tip pens with refill ink option:-
+https://s.click.aliexpress.com/e/_c3MJeAUl
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="3623" average="5.00" min="1" max="5"/>
+    <media:statistics views="53311"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Yz2_DffnHW0</id>
+  <yt:videoId>Yz2_DffnHW0</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Inside an emergency urine, sea water or salt water powered light</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Yz2_DffnHW0"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-05T17:30:06+00:00</published>
+  <updated>2026-06-16T08:08:30+00:00</updated>
+  <media:group>
+   <media:title>Inside an emergency urine, sea water or salt water powered light</media:title>
+   <media:content url="https://www.youtube.com/v/Yz2_DffnHW0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Yz2_DffnHW0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>An interesting concept that has been around for a while.  It's an emergency light that is stored dry to prolong the life of the electricity generating components.  When filled with salty water (or urine) the conductive liquid acts as an electrolyte and the cell electrodes can generate power for the light.
+
+The unit holds about 300ml of water and uses 10g of salt, but you can adjust as required.  The conductivity of the solution will have an effect on the intensity and run time of the light.
+
+If required, the unit can be emptied, rinsed and dried to put back into storage in a dry state in readiness for future use.  The lifespan will be determined by the gradual degradation of what I think is a zinc electrode.  The strange rubbery carbon membrane should not degrade in normal use.
+
+If you want to get one of these then here's a link to the item on AliExpress (not a sponsor).
+This is an affiliate link, but that will not affect the price you pay.
+https://s.click.aliexpress.com/e/_c3OsDCub
+
+These things have a valid application in the event of a major apocalyptic incident.  They would provide comforting light for a good length of time, especially if only used when needed.
+
+Let me know if you'd like me to get another and actually urinate in it to see what amount of power we get.
+
+I'll have to set that vintage leclanche cell up in a video too.
+
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="5931" average="5.00" min="1" max="5"/>
+    <media:statistics views="201481"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BYX6US9TPvs</id>
+  <yt:videoId>BYX6US9TPvs</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Destructively testing thermal fuses</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BYX6US9TPvs"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-03T17:49:43+00:00</published>
+  <updated>2026-06-16T08:07:20+00:00</updated>
+  <media:group>
+   <media:title>Destructively testing thermal fuses</media:title>
+   <media:content url="https://www.youtube.com/v/BYX6US9TPvs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BYX6US9TPvs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>These little thermal fuses are often found in things like fan motors and transformers as a protective device to break the circuit if the device overheats.
+
+In many instances that could be due to an associated fault or just an unusually hot enclosure, with the motor or transformer being serviceable.  In this instance a new thermal fuse may restore operation.
+
+Shunting out thermal fuses is frowned on, as it removes a safety layer and increases the risk of a fire when things go wrong.
+
+These things are mass produced and can be bought in packs at low cost.  It's one of those things where buying a pack is not much more expensive than buying a single unit.
+
+Note that this type is only suited to low current applications, and not heaters and larger motors.
+An interesting use of these is to permanently disable a device when a fault condition is detected, by deliberately heating the fuse with a resistor.  Some electric blanket controllers do that.
+
+Normally for something safety-critical like this, I recommend only buying from prominent electronic component distributors.  But my usual ones didn't stock this type.  That's why I tested several of them.
+
+These ones came from the usual suspect - but are available from various sources.
+Here's a link to the item on AliExpress (not a sponsor).
+This is an affiliate link, but that will not affect the price you pay.
+https://s.click.aliexpress.com/e/_c3bvmD5J
+Note that they are available in various temperature thresholds.  A pack of 20 costs about £2.
+You may find that a mid-range temperature like 130C fits a wide range of applications.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="2954" average="5.00" min="1" max="5"/>
+    <media:statistics views="34784"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:lFz5HdONtr8</id>
+  <yt:videoId>lFz5HdONtr8</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Exploring a gas detector module - with schematic</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=lFz5HdONtr8"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-01T17:45:26+00:00</published>
+  <updated>2026-06-01T18:09:11+00:00</updated>
+  <media:group>
+   <media:title>Exploring a gas detector module - with schematic</media:title>
+   <media:content url="https://www.youtube.com/v/lFz5HdONtr8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/lFz5HdONtr8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>The seeming simplicity of this sensor, and the massive resistance variation it exhibits when exposed to various gasses is pretty amazing.  It probably trivialises decades of scientific research.
+
+The module I demonstrated the sensor with is often sold as an Arduino module, but it does NOT require an Arduino or any other specific platform to be used.
+
+The module has an onboard comparator with adjustable threshold, so the unit can literally just be set to a fixed level and will sink useful current on its digital output to drive an external, transistor or opto-isolator.  (about 12mA available)
+
+These modules are available with various sensors fitted for specific types of gasses and vapours, but are less suited to measuring relatively inert gasses like carbon dioxide.  They also tend to react to a range of gasses, which makes them less suited to monitoring very a specific gas.
+
+The manufacturers of this type of module tend to recommend a long burn-in time when the sensors haven't been in use for a long time.  The sensors will still work, but they won't fully stabilise until they have been powered for long enough to condition the sensing element.
+
+The heater in these sensors passes about 150mA continuously, so they are not really suited to continuous battery use.
+
+These modules are very cheap and readily available from all your favourite online technical marketplaces.  Here's a link to the item on AliExpress (not a sponsor).
+This is an affiliate link, but that will not affect the price you pay.
+https://s.click.aliexpress.com/e/_c3sZc9Rz
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="4242" average="5.00" min="1" max="5"/>
+    <media:statistics views="63200"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_cpZxgCTMQw</id>
+  <yt:videoId>_cpZxgCTMQw</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Favourite tools - iSesamo spudger</title>
+  <link rel="alternate" href="https://www.youtube.com/shorts/_cpZxgCTMQw"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-06-01T04:34:58+00:00</published>
+  <updated>2026-06-01T09:39:34+00:00</updated>
+  <media:group>
+   <media:title>Favourite tools - iSesamo spudger</media:title>
+   <media:content url="https://www.youtube.com/v/_cpZxgCTMQw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_cpZxgCTMQw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>One of the tools that I use a lot when making teardown videos.  The classic spudger is designed to help pop tight fitting cases apart.</media:description>
+   <media:community>
+    <media:starRating count="2614" average="5.00" min="1" max="5"/>
+    <media:statistics views="69961"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:q54S6BnVV6k</id>
+  <yt:videoId>q54S6BnVV6k</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>AliExpress unbag joy - chainsaw bits, water turbine, tools, modules, litmus paper</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=q54S6BnVV6k"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-05-30T15:35:51+00:00</published>
+  <updated>2026-05-30T16:06:30+00:00</updated>
+  <media:group>
+   <media:title>AliExpress unbag joy - chainsaw bits, water turbine, tools, modules, litmus paper</media:title>
+   <media:content url="https://www.youtube.com/v/q54S6BnVV6k?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/q54S6BnVV6k/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Another elephant-fart of technical goodies from AliExpress for us to explore.
+
+These videos are not sponsored by AliExpress.  I buy all these items myself.
+
+Here are some links to the items.  These are affiliate links, but that will not affect the price you pay.
+Keep in mind that these products may not meet your country's standards.
+Some listings may not work for some countries and some may just be sold out or disappear.
+
+When paying on AliExpress, let the transaction complete before leaving the purchase page as otherwise it may not go through.
+
+The little class-D 50W + 50W stereo amplifier module:-
+https://s.click.aliexpress.com/e/_c3FklsmZ
+
+Bomurphy lead cropping cutters:-
+https://s.click.aliexpress.com/e/_c3PwoMXT
+
+Integrated Circuit extractor:-
+https://s.click.aliexpress.com/e/_c40rMluh
+
+Capacitor discharger with broken pogo pins!:-
+https://s.click.aliexpress.com/e/_c2Ru7Jrn
+
+Chainsaw bar and chains:-
+https://s.click.aliexpress.com/e/_c4DVwrKz
+
+Chainsaw sprocket set:-
+https://s.click.aliexpress.com/e/_c3OQVS0d
+
+Litmus paper roll for testing acidity or alkalinity of a liquid:-
+https://s.click.aliexpress.com/e/_c3PjP461
+
+Litmus paper strips book:-
+https://s.click.aliexpress.com/e/_c3Cuvm6t
+
+Fancy four-pad litmus style PH tester:-
+https://s.click.aliexpress.com/e/_c4pcLVXX
+
+Mini water turbine:-
+https://s.click.aliexpress.com/e/_c4cDGClR
+
+Translucent coloured sticky note squares:-
+https://s.click.aliexpress.com/e/_c45nGOap
+
+The digital clock module:-
+https://www.aliexpress.com/item/1005004572714955.html
+
+Carbide drill bits:-
+https://s.click.aliexpress.com/e/_c4pmFiWp
+
+5A current sensing module:-
+https://s.click.aliexpress.com/e/_c45dpv3n
+
+The USB-C OTG micro SD card adapter:-
+https://s.click.aliexpress.com/e/_c4ORpt3f
+
+The standard USB micro SD card adapter:-
+https://s.click.aliexpress.com/e/_c4bEIayH
+
+The sewing machine bobbin holder:-
+https://s.click.aliexpress.com/e/_c4rK09xr
+
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="3792" average="5.00" min="1" max="5"/>
+    <media:statistics views="59115"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:r1sMA_Dq27g</id>
+  <yt:videoId>r1sMA_Dq27g</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Inside the Tiger Power Supplies Wago-style connector</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=r1sMA_Dq27g"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-05-29T17:30:22+00:00</published>
+  <updated>2026-06-03T03:00:25+00:00</updated>
+  <media:group>
+   <media:title>Inside the Tiger Power Supplies Wago-style connector</media:title>
+   <media:content url="https://www.youtube.com/v/r1sMA_Dq27g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/r1sMA_Dq27g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>A lever style connector sold in the UK by CPC (part of the Element14 group).
+
+This seems to be a UK standards tested version of the very common pass-through lever terminal blocks widely sold from unregulated platforms like eBay, Temu and AliExpress.
+
+Here's the CPC catalogue listing:-
+https://cpc.farnell.com/tiger-power-supplies/tgr-qc-3-3-b/quick-wire-connector-3-3-c-coded/dp/CN24138
+
+Note that CPC is a good general electronic component supplier based in the UK.  If you need components of a known safety standard then they are a good option.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="2889" average="5.00" min="1" max="5"/>
+    <media:statistics views="34215"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:l8-5lSVCR2w</id>
+  <yt:videoId>l8-5lSVCR2w</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>Testing a Crysound acoustic camera</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=l8-5lSVCR2w"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-05-27T18:01:36+00:00</published>
+  <updated>2026-05-30T13:45:12+00:00</updated>
+  <media:group>
+   <media:title>Testing a Crysound acoustic camera</media:title>
+   <media:content url="https://www.youtube.com/v/l8-5lSVCR2w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/l8-5lSVCR2w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This is not a sponsored video.  Crysound offered to send me a unit to play with, and didn't even require me to make a video about it.  But how could I not make a video about this intriguing device.
+
+This unit is a demonstrator unit.  The final units may have different software and there is the ability to download firmware updates over WiFi.
+
+Mike of Mikeselectricstuff has sacrificed his unit for our betterment.  You can see inside (including the microphone array) and his commentary on the circuitry at this link:-
+https://www.youtube.com/watch?v=Uq6OonayCUk
+
+Crysound currently has their camera on presale in the USA at Amazon:-
+https://amzn.to/4u7heMN
+
+Check their website for availability in other countries.
+
+A link to the official product page with full tech spec:-
+https://www.crysound.com/product/crysound-pocket-acoustic-imaging-camera/
+
+Just like thermal imaging cameras, niche test equipment like this tends to be aimed at professional use like factory maintenance, HVAC and power distribution.  But at less than 10% of the cost of the Fluke version, this is actually viable for those who have specialist hobby uses.
+
+For me the most exciting discovery was how it locked onto the corona discharge of the air invigorator from 10m away!  It's extremely quiet to the human ear and yet the camera could detect it from a significant distance.  The on-screen frequency display indicated a high ultrasonic content from the tiny corona discharge at the tips of the needles.
+
+As with other test equipment like thermal cameras, it's useful to understand the nature of what you're looking at.  Low frequency sound waves tend to modulate the air in a room, while higher frequency sounds become progressively more directional.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="6949" average="5.00" min="1" max="5"/>
+    <media:statistics views="158447"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uX-b7MTJ5Bw</id>
+  <yt:videoId>uX-b7MTJ5Bw</yt:videoId>
+  <yt:channelId>UCtM5z2gkrGRuWd0JQMx76qA</yt:channelId>
+  <title>30 cell Fakita battery kit with issues</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uX-b7MTJ5Bw"/>
+  <author>
+   <name>bigclivedotcom</name>
+   <uri>https://www.youtube.com/channel/UCtM5z2gkrGRuWd0JQMx76qA</uri>
+  </author>
+  <published>2026-05-25T17:30:08+00:00</published>
+  <updated>2026-05-25T18:02:49+00:00</updated>
+  <media:group>
+   <media:title>30 cell Fakita battery kit with issues</media:title>
+   <media:content url="https://www.youtube.com/v/uX-b7MTJ5Bw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uX-b7MTJ5Bw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>I kinda like the Fakita battery system (Fake Makita) as it is a useful battery pack with built in protection against over-charge, over-discharge and overcurrent.
+
+This kit comes without cells and is supposed to make a monster 30 cell battery with five series sets of six-paralleled cells, giving the potential for a 14.4Ah pack if using 2.4Ah cells.
+(The Ah capacity is at the rated voltage and not all the combined cells, so it's just six times 2.4Ah.)
+
+Unfortunately, the control PCB that was supplied is incompatible with the mountings on the battery frame.  It might be viable to bodge it in somehow, but it's not recommended.  Even with one of the smaller modules rated for lower load current, you would need to glue the PCB into place and have fly wires onto the battery block.
+
+The control PCB is interesting as it uses the same control chip as the smaller modules, but has extra buffering to drive a large parallel array of load control MOSFETs.  The gratuitous application of very stubborn silicone made it frustratingly difficult to do a proper full reverse engineering of this pack.  I did find some things that made me prefer the smaller PCBs if the high current switching isn't needed.
+
+Depending on what you wanted to do with it, the kit could still be viable for the cell assembly, so if you want to explore one then here's an affiliate link to the AliExpress listing:-
+https://s.click.aliexpress.com/e/_c3b7JvTP
+Interestingly, the control PCB shown in the listing is similar, but different to the one I received.
+
+
+
+If you enjoy my videos, supporting the channel on Patreon helps keep it independent of YouTube's quirks, avoids intrusive mid-video adverts, gives early access, bonus footage and regular quiet Patreon live streams.
+
+https://www.patreon.com/bigclive
+
+Alternatively, for a single coffee contribution you can use PayPal:-
+https://www.paypal.com/paypalme/bigclive
+
+#ElectronicsCreators</media:description>
+   <media:community>
+    <media:starRating count="3380" average="5.00" min="1" max="5"/>
+    <media:statistics views="55103"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
