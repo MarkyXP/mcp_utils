@@ -27,7 +27,7 @@ jobs:
         with:
           push: true
           tags:  |
-            ghcr.io/markyxp/mcp_utils:latest
-            ghcr.io/markyxp/mcp_util:${{ github.ref_name }}
+            ghcr.io/markyxp/mcp-utils:latest
+            ghcr.io/markyxp/mcp-utils:${{ github.ref_name }}
           build-args: |
             VERSION=${{ github.ref_name }}
